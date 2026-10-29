@@ -1,0 +1,4 @@
+flask
+pypdf
+python-docx
+python-pptx
